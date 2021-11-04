@@ -1,0 +1,198 @@
+@font-face {
+  font-family: 'exaicon';
+  src:  url('https://i.icomoon.io/public/temp/dda96ece23/Exasol/exaicon.eot?jpex1g');
+  src:  url('https://i.icomoon.io/public/temp/dda96ece23/Exasol/exaicon.eot?jpex1g#iefix') format('embedded-opentype'),
+    url('https://i.icomoon.io/public/temp/dda96ece23/Exasol/exaicon.ttf?jpex1g') format('truetype'),
+    url('https://i.icomoon.io/public/temp/dda96ece23/Exasol/exaicon.woff?jpex1g') format('woff'),
+    url('https://i.icomoon.io/public/temp/dda96ece23/Exasol/exaicon.svg?jpex1g#exaicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="exaicon-"], [class*=" exaicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'exaicon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.exaicon-calendar:before {
+  content: "\e900";
+}
+.exaicon-check-circ:before {
+  content: "\e901";
+}
+.exaicon-check-md:before {
+  content: "\e902";
+}
+.exaicon-check-sm:before {
+  content: "\e903";
+}
+.exaicon-chevron-down:before {
+  content: "\e904";
+}
+.exaicon-chevron-left:before {
+  content: "\e905";
+}
+.exaicon-chevron-right:before {
+  content: "\e906";
+}
+.exaicon-chevron-up:before {
+  content: "\e907";
+}
+.exaicon-close-circ:before {
+  content: "\e908";
+}
+.exaicon-close-md:before {
+  content: "\e909";
+}
+.exaicon-close-sm:before {
+  content: "\e90a";
+}
+.exaicon-code:before {
+  content: "\e90b";
+}
+.exaicon-connect:before {
+  content: "\e90c";
+}
+.exaicon-database:before {
+  content: "\e90d";
+}
+.exaicon-delete:before {
+  content: "\e90e";
+}
+.exaicon-dimensional-model:before {
+  content: "\e90f";
+}
+.exaicon-document:before {
+  content: "\e910";
+}
+.exaicon-download:before {
+  content: "\e911";
+}
+.exaicon-edit:before {
+  content: "\e912";
+}
+.exaicon-error-circ:before {
+  content: "\e913";
+}
+.exaicon-error-md:before {
+  content: "\e914";
+}
+.exaicon-error-sm:before {
+  content: "\e915";
+}
+.exaicon-flash:before {
+  content: "\e916";
+}
+.exaicon-key:before {
+  content: "\e917";
+}
+.exaicon-logout:before {
+  content: "\e918";
+}
+.exaicon-minus-circ:before {
+  content: "\e919";
+}
+.exaicon-minus-md:before {
+  content: "\e91a";
+}
+.exaicon-minus-sm:before {
+  content: "\e91b";
+}
+.exaicon-pause-circ:before {
+  content: "\e91c";
+}
+.exaicon-pause-md:before {
+  content: "\e91d";
+}
+.exaicon-pause-sm:before {
+  content: "\e91e";
+}
+.exaicon-play-circ:before {
+  content: "\e91f";
+}
+.exaicon-play-md:before {
+  content: "\e920";
+}
+.exaicon-play-sm:before {
+  content: "\e921";
+}
+.exaicon-plus-circ:before {
+  content: "\e922";
+}
+.exaicon-plus-md:before {
+  content: "\e923";
+}
+.exaicon-plus-sm:before {
+  content: "\e924";
+}
+.exaicon-publish:before {
+  content: "\e925";
+}
+.exaicon-redirect:before {
+  content: "\e926";
+}
+.exaicon-search:before {
+  content: "\e927";
+}
+.exaicon-settings:before {
+  content: "\e928";
+}
+.exaicon-shield:before {
+  content: "\e929";
+}
+.exaicon-size:before {
+  content: "\e92a";
+}
+.exaicon-sync:before {
+  content: "\e92b";
+}
+.exaicon-table:before {
+  content: "\e92c";
+}
+.exaicon-triangle-down:before {
+  content: "\e92d";
+}
+.exaicon-triangle-left:before {
+  content: "\e92e";
+}
+.exaicon-triangle-right:before {
+  content: "\e92f";
+}
+.exaicon-triangle-up:before {
+  content: "\e930";
+}
+.exaicon-type-character:before {
+  content: "\e931";
+}
+.exaicon-type-date:before {
+  content: "\e932";
+}
+.exaicon-type-folder:before {
+  content: "\e933";
+}
+.exaicon-type-numeric:before {
+  content: "\e934";
+}
+.exaicon-warning-circ:before {
+  content: "\e935";
+}
+.exaicon-warning-md:before {
+  content: "\e936";
+}
+.exaicon-warning-sm:before {
+  content: "\e937";
+}
+.exaicon-workflow:before {
+  content: "\e938";
+}
